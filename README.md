@@ -69,8 +69,8 @@ Bonus
 
 ### 💻 Applications et langages utilisés :
 
-+ Kotlin
 + Android studio
++ Kotlin
 
 
 
